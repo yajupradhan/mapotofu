@@ -1,4 +1,10 @@
 ---
 label: Recipe
 hide_body: false
-fields: []
+fields:
+- type: image_gallery
+  name: recipes
+  label: recipes
+- type: textarea
+  name: recipe-description
+  label: recipe-description
