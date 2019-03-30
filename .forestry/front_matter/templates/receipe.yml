@@ -8,3 +8,5 @@ fields:
 - type: textarea
   name: recipe-description
   label: recipe-description
+pages:
+- _posts/MapoTofu.md
